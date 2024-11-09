@@ -1,6 +1,11 @@
 ![image](https://github.com/user-attachments/assets/f0bba9d4-03b9-4925-8bb6-9b7adcabafac)
 
 # LlamaCanvas
+![Build Status](https://img.shields.io/github/actions/workflow/status/LlamaGenAI/LlamaCanvas/ci.yml?branch=main)
+![License](https://img.shields.io/github/license/LlamaGenAI/LlamaCanvas)
+![Contributors](https://img.shields.io/github/contributors/LlamaGenAI/LlamaCanvas)
+![Last Commit](https://img.shields.io/github/last-commit/LlamaGenAI/LlamaCanvas)
+
 
 **LlamaCanvas** is an innovative AI-powered tool that transforms your text into visuals, making content creation fast, easy, and impactful. Whether you're working on a story, marketing content, or any form of visual communication, LlamaCanvas helps bring your ideas to life with next-generation AI technology.
 
